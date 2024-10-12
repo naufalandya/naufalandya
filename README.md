@@ -18,8 +18,11 @@ You can click the Preview link to take a look at your changes.
 ## Technology
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,rust,python,go&perline=5)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,elysia,express,bun,flask&perline=7)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=prisma,postgres,supabase,mysql,mongodb,sqlite,redis&perline=6)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=linux,postman&perline=6)](https://skillicons.dev)
 
 
