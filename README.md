@@ -15,20 +15,11 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalandya&layout=compact&hide=php,html,css,ejs)
 
-## Language
+## Technology
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,rust,python,go&perline=5)](https://skillicons.dev)
-
-## Framework & Runtime
-
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,elysia,express,bun,flask&perline=7)](https://skillicons.dev)
-
-## Database & Query
-
 [![My Skills](https://skillicons.dev/icons?i=prisma,postgres,supabase,mysql,mongodb,sqlite,redis&perline=6)](https://skillicons.dev)
-
-## Other
-
 [![My Skills](https://skillicons.dev/icons?i=linux,postman&perline=6)](https://skillicons.dev)
 
 
