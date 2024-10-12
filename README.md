@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - Database & Query
 
-[![My Skills](https://skillicons.dev/icons?i=prisma,drizzle,postgres,supabase,mysql,mongodb,sqlite,redis&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma,postgres,supabase,mysql,mongodb,sqlite,redis&perline=6)](https://skillicons.dev)
 
 - Other
 
