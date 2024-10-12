@@ -21,8 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,elysia,express,bun,flask&perline=7)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=sql,prisma,postgres,supabase,mysql,mongodb,sqlite,redis&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma,postgres,supabase,mysql,mongodb,sqlite,redis&perline=8)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,postman,docker&perline=6)](https://skillicons.dev)
 
 
