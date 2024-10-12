@@ -21,4 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,elysia,express,bun,flask,fiber&perline=6)](https://skillicons.dev)
 
+- Technology
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb,d3,redis&perline=6)](https://skillicons.dev)
+
 
