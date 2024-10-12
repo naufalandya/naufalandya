@@ -19,10 +19,14 @@ You can click the Preview link to take a look at your changes.
 
 - Framework & Runtime
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,elysia,express,bun,flask,fiber,react&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,elysia,express,bun,flask&perline=7)](https://skillicons.dev)
 
-- Technology
+- Database & Query
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb,sqlite,redis&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma,mongoose,postgres,supabase,mysql,mongodb,sqlite,redis&perline=6)](https://skillicons.dev)
+
+- Library
+
+[![My Skills](https://skillicons.dev/icons?i=react,pandas,beautifulSoup,oauth,imagekit&perline=6)](https://skillicons.dev)
 
 
