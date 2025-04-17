@@ -9,7 +9,7 @@ naufalandya/naufalandya is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## My Contribution
+## My Contributions
 
 ![Andya's Stat](https://github-readme-stats.vercel.app/api?username=naufalandya\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
